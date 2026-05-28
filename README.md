@@ -18,14 +18,6 @@ Build strong programming foundations and progress toward AI/ML Engineering throu
 
 ---
 
-# 📅 Progress Tracker
-
-| Day   | Topic                        | Status      |
-| ----- | ---------------------------- | ----------- |
-| Day 0 | Python Fundamentals Revision | ✅ Completed |
-
----
-
 # 🧠 Topics Covered in Day 0
 
 * Print Statements
