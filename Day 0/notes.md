@@ -1,18 +1,18 @@
-# Python Mastery – Day 0 🚀
+# Python Mastery – Day 0
 
 ## Quick Revision of Python Fundamentals
 
 ---
 
-# 🖨 Print Statement
+## Print Statement
 
-```python
+```python id="4t4tud"
 print("Hello World")
 ```
 
 ### Output
 
-```python
+```python id="1wq9hl"
 Hello World
 ```
 
@@ -22,9 +22,9 @@ Used to display output on the screen.
 
 ---
 
-# 📦 Variables & Data Types
+## Variables and Data Types
 
-```python
+```python id="ydm8ux"
 name = "Ankit"
 age = 20
 height = 5.8
@@ -44,9 +44,9 @@ Variables are used to store data.
 
 ---
 
-# ⌨ User Input
+## User Input
 
-```python
+```python id="9t8g7r"
 name = input("Enter your name: ")
 
 print("Welcome", name)
@@ -58,9 +58,9 @@ Used to take input from the user.
 
 ---
 
-# ➕ Arithmetic Operators
+## Arithmetic Operators
 
-```python
+```python id="uh8l78"
 x = 10
 y = 3
 ```
@@ -77,9 +77,9 @@ y = 3
 
 ---
 
-# 🔀 Conditional Statements
+## Conditional Statements
 
-```python
+```python id="pqsbvq"
 age = int(input("Enter your age: "))
 
 if age >= 18:
@@ -96,9 +96,9 @@ Used for decision making.
 
 ---
 
-# 🔁 While Loop
+## While Loop
 
-```python
+```python id="j3p18d"
 count = 0
 
 while count < 5:
@@ -112,9 +112,9 @@ Repeats code while condition is True.
 
 ---
 
-# 🔄 For Loop
+## For Loop
 
-```python
+```python id="0i6rly"
 games = ["Minecraft", "Valorant", "GTA"]
 
 for game in games:
@@ -127,9 +127,9 @@ Used to iterate through items.
 
 ---
 
-# 📋 Lists
+## Lists
 
-```python
+```python id="o0mpul"
 games = ["Minecraft", "Valorant", "GTA"]
 
 print(games[0])
@@ -141,7 +141,7 @@ print(games)
 
 ### Output
 
-```python
+```python id="v69vv6"
 ['Minecraft', 'Valorant', 'GTA', 'BGMI']
 ```
 
@@ -151,9 +151,9 @@ Stores multiple values in one variable.
 
 ---
 
-# ⚙ Functions
+## Functions
 
-```python
+```python id="jk2msp"
 def greet(name):
     print("Hello", name)
 
@@ -166,9 +166,9 @@ Reusable block of code.
 
 ---
 
-# ↩ Return Statement
+## Return Statement
 
-```python
+```python id="l7y0jr"
 def multiply(a, b):
     return a * b
 
@@ -179,7 +179,7 @@ print(result)
 
 ### Output
 
-```python
+```python id="22pkju"
 50
 ```
 
@@ -189,9 +189,9 @@ Returns value from a function.
 
 ---
 
-# 🎮 Mini Project – Number Guessing Game
+## Mini Project – Number Guessing Game
 
-```python
+```python id="el6o2t"
 import random
 
 secret = random.randint(1, 10)
@@ -213,22 +213,16 @@ else:
 
 ---
 
-# 🧠 Concepts Covered Today
+## Concepts Covered
 
-✅ Print Statements
-✅ Variables & Data Types
-✅ User Input
-✅ Arithmetic Operators
-✅ Conditional Statements
-✅ While Loop
-✅ For Loop
-✅ Lists
-✅ Functions
-✅ Return Statement
-✅ Mini Project – Number Guessing Game
-
----
-
-# 📌 Day 0 Complete
-
-Python Mastery – 100 Days, 100 Projects 🚀
+* Print Statements
+* Variables and Data Types
+* User Input
+* Arithmetic Operators
+* Conditional Statements
+* While Loop
+* For Loop
+* Lists
+* Functions
+* Return Statement
+* Number Guessing Game
